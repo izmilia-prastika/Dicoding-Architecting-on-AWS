@@ -1,0 +1,30 @@
+Pertanyaan: Anda sedang merencanakan migrasi dari database on-premise berbasis SQL ke AWS. Anda ingin memanfaatkan keunggulan Amazon Aurora. Layanan apa yang sebaiknya Anda gunakan?
+Jawaban: aurora
+
+
+Saat ini Anda sedang membuat aplikasi dan mempertimbangkan penggunaan layanan antara PostgreSQL atau MySQL. Anda tidak ingin mengelola server database dan hanya ingin fokus ke pengembangan aplikasi saja. Layanan apa yang sebaiknya Anda gunakan?
+aurora serverless
+
+
+
+Dari pilihan ini, mana saja yang merupakan layanan Database Relasional?
+PostgreSQL
+Amazon Aurora
+Amazon DynamoDB
+Amazon KeySpaces
+1 dan 2 
+
+
+Aplikasi Anda saat ini menggunakan database MySQL. Layanan apa yang dapat dipertimbangkan saat akan bermigrasi ke AWS?
+Redshift 
+
+
+Dari pilihan ini, mana saja yang merupakan layanan Database Nonrelasional?
+PostgreSQL
+Amazon Aurora
+Amazon DynamoDB
+Amazon KeySpaces
+Amazon Redshift
+3 dan 4
+
+Hasil Akhir: 80%
